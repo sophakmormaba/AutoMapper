@@ -1,0 +1,4 @@
+dotnet pack .\src\AutoMapper\AutoMapper.csproj --configuration Release --output ".\pagkeages"
+
+
+dotnet nuget push .\pagkeages\Sop.*.nupkg --source gitlab.package --skip-duplicate

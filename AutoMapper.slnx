@@ -20,6 +20,7 @@
     <File Path="nuget.config" />
     <File Path="Push.ps1" />
     <File Path="README.md" />
+    <File Path="script" />
   </Folder>
   <Project Path="src/AutoMapper.DI.Tests/AutoMapper.DI.Tests.csproj" />
   <Project Path="src/AutoMapper/AutoMapper.csproj" />
